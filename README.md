@@ -1,4 +1,8 @@
-# AstroNvim Template
+# This is my configuration for nvim
+
+For better expirience I recomended to install AstroNvim
+
+## AstroNvim Template
 
 **NOTE:** This is for AstroNvim v4+
 
